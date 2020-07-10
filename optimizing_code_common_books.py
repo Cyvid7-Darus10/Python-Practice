@@ -48,6 +48,6 @@ print('Duration: {} seconds'.format(time.time() - start))
 # In[18]:
 
 start = time.time()
-recent_coding_books = set(coding_books).intersection(set(recent_books)) # TODO: compute intersection of lists
+recent_coding_books = set(coding_books).intersection(recent_books) # TODO: compute intersection of lists
 print(len(recent_coding_books))
 print('Duration: {} seconds'.format(time.time() - start))
