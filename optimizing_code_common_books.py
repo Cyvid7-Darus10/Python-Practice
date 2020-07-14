@@ -1,8 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # # Optimizing Code: Common Books
-# Here's the code your coworker wrote to find the common book ids in `books_published_last_two_years.txt` and `all_coding_books.txt` to obtain a list of recent coding books.
+# Here's the code your coworker wrote to find the common book ids in `books_published_last_two_years.txt` and
+# `all_coding_books.txt` to obtain a list of recent coding books.
 
 # In[13]:
 
