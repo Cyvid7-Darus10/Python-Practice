@@ -1,8 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # # Refactor: Wine Quality Analysis
-# The code in this notebook first renames the columns of the dataset and then calculates some statistics on how some features may be related to quality ratings. Can you refactor this code to make it more clean and modular?
+# The code in this notebook first renames the columns of the dataset and then calculates 
+# some statistics on how some features may be related to quality ratings. Can you refactor this code to make it more clean and modular?
 
 # In[1]:
 
